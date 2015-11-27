@@ -26,7 +26,7 @@ ZLCitySelect
 
 1. 下载 ZLCitySelect 文件夹内的所有内容。
 2. 将 ZLCitySelect 内的源文件添加(拖放)到你的工程。
-3. 导入 `ZLCitySelect.h`。
+3. 导入 `ZLSelectCityViewController.h`。
 
 
 许可证
