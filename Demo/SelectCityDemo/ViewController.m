@@ -28,8 +28,8 @@
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
-    ZLSelectCityViewController *vc = [segue destinationViewController];
-    vc.selectCityBlock = ^(NSDictionary* city){
+    ZLSelectCityViewController *selectCityVC = [segue destinationViewController];
+    selectCityVC.selectCityBlock = ^(NSDictionary* city){
         self.selectCityLabel.text = [NSString stringWithFormat:@"您选择的城市：%@",[city objectForKey:@"name"]];
     };
 }

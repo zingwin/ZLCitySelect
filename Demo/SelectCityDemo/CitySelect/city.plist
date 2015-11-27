@@ -150,9 +150,9 @@
 		</dict>
 		<dict>
 			<key>centerx</key>
-			<real>107.39405499999999</real>
+			<real>107.394055</real>
 			<key>centery</key>
-			<real>40.749397999999999</real>
+			<real>40.749398</real>
 			<key>city_id</key>
 			<integer>150800</integer>
 			<key>district_online</key>
@@ -168,7 +168,7 @@
 		</dict>
 		<dict>
 			<key>centerx</key>
-			<real>109.14734900000001</real>
+			<real>109.147349</real>
 			<key>centery</key>
 			<real>21.455092</real>
 			<key>city_id</key>
@@ -926,7 +926,7 @@
 			<key>centerx</key>
 			<real>114.545866</real>
 			<key>centery</key>
-			<real>36.631194999999998</real>
+			<real>36.631195</real>
 			<key>city_id</key>
 			<integer>730</integer>
 			<key>district_online</key>
@@ -1734,7 +1734,7 @@
 		</dict>
 		<dict>
 			<key>centerx</key>
-			<real>112.00085199999999</real>
+			<real>112.000852</real>
 			<key>centery</key>
 			<real>27.703339</real>
 			<key>city_id</key>
@@ -2582,7 +2582,7 @@
 			<key>centerx</key>
 			<real>113.30072</real>
 			<key>centery</key>
-			<real>22.810670999999999</real>
+			<real>22.810671</real>
 			<key>city_id</key>
 			<integer>440606</integer>
 			<key>district_online</key>
@@ -3084,9 +3084,9 @@
 		</dict>
 		<dict>
 			<key>centerx</key>
-			<real>113.13886100000001</real>
+			<real>113.138861</real>
 			<key>centery</key>
-			<real>41.001131999999998</real>
+			<real>41.001132</real>
 			<key>city_id</key>
 			<integer>150900</integer>
 			<key>district_online</key>
@@ -3230,7 +3230,7 @@
 			<key>centerx</key>
 			<real>112.218371</real>
 			<key>centery</key>
-			<real>32.093451000000002</real>
+			<real>32.093451</real>
 			<key>city_id</key>
 			<integer>954</integer>
 			<key>district_online</key>
@@ -4022,7 +4022,7 @@
 			<key>centerx</key>
 			<real>104.634349</real>
 			<key>centery</key>
-			<real>30.135065000000001</real>
+			<real>30.135065</real>
 			<key>city_id</key>
 			<integer>2014</integer>
 			<key>district_online</key>
@@ -4342,24 +4342,6 @@
 			<string>zhengzhou</string>
 			<key>province</key>
 			<string>河南</string>
-			<key>zone_online</key>
-			<string>1</string>
-		</dict>
-		<dict>
-			<key>centerx</key>
-			<string>121.54399</string>
-			<key>centery</key>
-			<string>29.868336</string>
-			<key>city_id</key>
-			<integer>2268</integer>
-			<key>district_online</key>
-			<string>1</string>
-			<key>name</key>
-			<string>宁波</string>
-			<key>pinyin</key>
-			<string>ningbo</string>
-			<key>province</key>
-			<string>浙江</string>
 			<key>zone_online</key>
 			<string>1</string>
 		</dict>
