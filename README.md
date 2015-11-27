@@ -11,13 +11,13 @@ ZLCitySelect
 
 用法
 ==============
-    <code>
+    
     ZLSelectCityViewController *selectCityVC = [[ZLSelectCityViewController alloc] init];
     selectCityVC.selectCityBlock = ^(NSDictionary* city){
         self.selectCityLabel.text = [NSString stringWithFormat:@"您选择的城市：%@",[city objectForKey:@"name"]];
     };
     [self.navigationController pushViewController:selectCityVC animated:YES];
-    </code>
+    
     
 安装
 ==============
