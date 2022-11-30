@@ -9,7 +9,7 @@ ZLCitySelect
 ==============
 该项目能很好的兼容 iPhone, 兼容 iOS7 / 8 / 9
 
-用法
+用 法
 ==============
     
     ZLSelectCityViewController *selectCityVC = [[ZLSelectCityViewController alloc] init];
